@@ -19,13 +19,13 @@ function App() {
           .
         </p>
         <p>
-          Feel free to check them out and react out for{" "}
-          <a href="mailto:furkantitiz96@gmail.com">collabration</a>.
+          Feel free to check them out and reach out for{" "}
+          <a href="mailto:furkantitiz96@gmail.com">collaboration</a>.
         </p>
       </div>
       <div className="about">
         <p>
-          Outside of coding, I enjoy watchinh F1 races, tennis matches and
+          Outside of coding, I enjoy watching F1 races, tennis matches, and
           listening to music.
         </p>
       </div>
@@ -44,7 +44,7 @@ function App() {
           alt="Young Knight in a Landscape by Vittore Carpaccio 1510"
           className="portrait-img"
         />
-        <p>Young Knight in a Landscape by Vittore Carpaccio, 1510</p>
+        <p>Young Knight in a Landscape by Vittore Carpaccio 1510</p>
       </div>
     </div>
   );
