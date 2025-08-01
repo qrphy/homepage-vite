@@ -23,7 +23,7 @@ function App() {
           <a href="mailto:furkantitiz96@gmail.com">collabration</a>.
         </p>
       </div>
-      <div className="ben">
+      <div className="about">
         <p>
           Outside of coding, I enjoy watchinh F1 races, tennis matches and
           listening to music.
